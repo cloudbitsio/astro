@@ -24,4 +24,5 @@ pnpm-debug.log*
 .idea/
 
 # CDK
+stack/
 cdk.out/
